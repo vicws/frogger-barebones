@@ -5,6 +5,6 @@ made with editor.p5js.org, using some resources from Alura (online tech courses)
 random quacking .wav
 anime "wow" from fairy tail/meme
 
-BMG by FurbyGuy: https://freesound.org/people/furbyguy/sounds/331875/
+BGM by FurbyGuy: https://freesound.org/people/furbyguy/sounds/331875/
 
 Collision Detection library by Ben Moren: https://github.com/bmoren/p5.collide2D/
