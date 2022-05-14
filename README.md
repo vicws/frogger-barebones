@@ -1,5 +1,8 @@
 # frogger-barebones
 _very_ basic frogger clone
+
+use arrow keys to play, and get to the other side without getting hit; that's it
+
 made with editor.p5js.org, using some resources from Alura (online tech courses), the former pogchamp guy, and assets from the following:
 
 random quacking .wav
