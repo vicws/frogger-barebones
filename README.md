@@ -1,6 +1,6 @@
 # frogger-barebones
 _very_ basic frogger clone
-made with editor.p5js.org, using some resources from Alura (online tech courses), the former pogger guy, and assets from the following:
+made with editor.p5js.org, using some resources from Alura (online tech courses), the former pogchamp guy, and assets from the following:
 
 random quacking .wav
 anime "wow" from fairy tail/meme
